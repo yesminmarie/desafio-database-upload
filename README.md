@@ -28,7 +28,9 @@ besides to allow the criation of new registers inside the database from the send
 <h2>Pre Requiriments</h2>
 
 <p>You will need these tools instaled in your machine: 
-[Node.js](https://nodejs.org/en/ "Node.js"), [Yarn](https://yarnpkg.com/ "Yarn") e [Git](https://git-scm.com/ "Git")</p>
+- [Node.js](https://nodejs.org/en/ "Node.js") 
+- [Yarn](https://yarnpkg.com/ "Yarn") 
+- [Git](https://git-scm.com/ "Git")</p>
 
 ```bash
 # Clone this repository
